@@ -1,4 +1,4 @@
-# Restaurant App
+# Food Ordering App MVP
 
 ## Setup
 
